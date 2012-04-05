@@ -8,3 +8,8 @@ added some more code
 even more code
 
 code after merged and rebased with master
+
+//code for carousel
+
+//end code for carousel
+
