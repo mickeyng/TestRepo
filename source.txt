@@ -7,3 +7,8 @@ added some more code
 
 even more code
 
+
+
+//code for carousel
+
+//end code for carousel
