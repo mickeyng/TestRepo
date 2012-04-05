@@ -1,2 +1,4 @@
 sdsdsds
 :i
+:d
+:a
